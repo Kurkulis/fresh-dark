@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "fresh-dark" extension will be documented in this file.
 
+# [7.0.1] - 2021-03-23
+### Changed
+- Change foreground color to match other colors better.
+
 # [7.0.0] - 2021-03-19
 ### Changed
 - Change background colors.
